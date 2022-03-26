@@ -1,5 +1,3 @@
-use project3;
-
 create table Skill (
 skillName varchar(20) not null primary key);
 
